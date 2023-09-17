@@ -1,0 +1,15 @@
+.elementor-7398 .elementor-element.elementor-element-a03cb48{margin-top:20px;margin-bottom:0px;}.elementor-7398 .elementor-element.elementor-element-a64ad02 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:0px 0px 0px 0px;}.elementor-7398 .elementor-element.elementor-element-a64ad02 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7398 .elementor-element.elementor-element-a64ad02 .elementor-element-populated a:hover{color:#D82249;}.elementor-7398 .elementor-element.elementor-element-a581234{text-align:center;bottom:0px;}.elementor-7398 .elementor-element.elementor-element-a581234 .elementor-heading-title{color:#383838;font-family:"Avo", Sans-serif;font-size:16px;font-weight:600;line-height:24px;}.elementor-7398 .elementor-element.elementor-element-a581234 > .elementor-widget-container{margin:0px 0px 25px 0px;padding:10px 10px 10px 10px;background-color:#FFFFFF;border-style:solid;border-width:1px 0px 1px 0px;border-color:#D822496B;border-radius:0px 0px 0px 0px;}body:not(.rtl) .elementor-7398 .elementor-element.elementor-element-a581234{left:0px;}body.rtl .elementor-7398 .elementor-element.elementor-element-a581234{right:0px;}.elementor-7398 .elementor-element.elementor-element-bc9df39{text-align:center;}.elementor-7398 .elementor-element.elementor-element-bc9df39 .elementor-image img{box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.18);}.elementor-7398 .elementor-element.elementor-element-bc9df39 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-7398 .elementor-element.elementor-element-8965810 .elementor-heading-title{color:#FFFFFF;font-family:"Avo", Sans-serif;font-size:14px;font-weight:500;}.elementor-7398 .elementor-element.elementor-element-8965810 > .elementor-widget-container{padding:10px 10px 10px 10px;background-color:#E12543;border-radius:0px 0px 0px 0px;}.elementor-7398 .elementor-element.elementor-element-8965810{width:auto;max-width:auto;top:0px;}body:not(.rtl) .elementor-7398 .elementor-element.elementor-element-8965810{right:0px;}body.rtl .elementor-7398 .elementor-element.elementor-element-8965810{left:0px;}@media(max-width:767px){.elementor-7398 .elementor-element.elementor-element-a03cb48{padding:10px 10px 10px 10px;}.elementor-7398 .elementor-element.elementor-element-a64ad02 > .elementor-element-populated{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-7398 .elementor-element.elementor-element-a581234 .elementor-heading-title{line-height:1.5em;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_Avo.woff') format('woff');
+}
+@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_AvoBold.woff') format('woff');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,21 @@
+.elementor-1228 .elementor-element.elementor-element-3e65317 > .elementor-container{min-height:220px;}.elementor-1228 .elementor-element.elementor-element-3e65317:not(.elementor-motion-effects-element-type-background), .elementor-1228 .elementor-element.elementor-element-3e65317 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1228 .elementor-element.elementor-element-3e65317{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-1228 .elementor-element.elementor-element-3e65317 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1228 .elementor-element.elementor-element-dd960ba:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-1228 .elementor-element.elementor-element-dd960ba > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#0000008A;}.elementor-1228 .elementor-element.elementor-element-dd960ba > .elementor-element-populated{border-style:solid;border-width:0px 0px 0px 4px;border-color:#FFFFFF;transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 20px 20px 20px;}.elementor-1228 .elementor-element.elementor-element-dd960ba > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1228 .elementor-element.elementor-element-496d255 .elementor-heading-title{color:#FFFFFF;font-family:"Avo", Sans-serif;font-size:15px;font-weight:600;text-transform:uppercase;line-height:1.5em;}/* Start custom CSS for heading, class: .elementor-element-496d255 */.tt1 .elementor-heading-title {
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_Avo.woff') format('woff');
+}
+@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_AvoBold.woff') format('woff');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,53 @@
+.elementor-1324 .elementor-element.elementor-element-292412f > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-1324 .elementor-element.elementor-element-292412f > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1324 .elementor-element.elementor-element-fc3ca0a > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-1324 .elementor-element.elementor-element-82b98b1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;}.elementor-1324 .elementor-element.elementor-element-82b98b1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1324 .elementor-element.elementor-element-bd8c6ef > .elementor-element-populated{margin:0px 20px 0px 0px;}.elementor-bc-flex-widget .elementor-1324 .elementor-element.elementor-element-940bb0e.elementor-column .elementor-column-wrap{align-items:center;}.elementor-1324 .elementor-element.elementor-element-940bb0e.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-1324 .elementor-element.elementor-element-89f2068 .elementor-button{font-family:"Avo", Sans-serif;font-size:16px;fill:#FFFFFF;color:#FFFFFF;background-color:#383838;padding:6px 10px 10px 10px;}.elementor-1324 .elementor-element.elementor-element-a569a97 .bdt-breadcrumbs-wrapper .bdt-breadcrumb>:nth-child(n+2):not(.bdt-first-column)::before{content:'❯';}.elementor-1324 .elementor-element.elementor-element-a569a97 .bdt-breadcrumbs-wrapper .bdt-breadcrumb>*>* ,
+							 .elementor-1324 .elementor-element.elementor-element-a569a97 .bdt-breadcrumbs-wrapper .bdt-breadcrumb>:nth-child(n+2):not(.bdt-first-column)::before{font-family:"Avo", Sans-serif;font-size:16px;}.elementor-1324 .elementor-element.elementor-element-a569a97 .bdt-breadcrumbs-wrapper .bdt-breadcrumb>*>*{color:#000000;}.elementor-1324 .elementor-element.elementor-element-a569a97 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-1324 .elementor-element.elementor-element-5b25e87{margin-top:10px;margin-bottom:0px;}.elementor-1324 .elementor-element.elementor-element-1077335{text-align:left;}.elementor-1324 .elementor-element.elementor-element-1077335 .elementor-heading-title{color:#DD3E5F;font-family:"Avo", Sans-serif;font-size:25px;font-weight:700;text-transform:uppercase;}.elementor-1324 .elementor-element.elementor-element-afca5ac{--divider-border-style:solid;--divider-color:#000;--divider-border-width:1px;}.elementor-1324 .elementor-element.elementor-element-afca5ac .elementor-divider-separator{width:100%;}.elementor-1324 .elementor-element.elementor-element-afca5ac .elementor-divider{padding-top:15px;padding-bottom:15px;}.elementor-1324 .elementor-element.elementor-element-8b3f3aa .jet-listing-grid__item{padding-top:calc(10px / 2);padding-bottom:calc(10px / 2);}.elementor-1324 .elementor-element.elementor-element-bfeff6a .jet-filters-pagination__link{padding:10px 10px 10px 10px;}.elementor-1324 .elementor-element.elementor-element-bfeff6a .jet-filters-pagination__dots{padding:10px 10px 10px 10px;}.elementor-1324 .elementor-element.elementor-element-bfeff6a .jet-filters-pagination__item+.jet-filters-pagination__item{margin-left:4px;}.elementor-1324 .elementor-element.elementor-element-bfeff6a .jet-filters-pagination__item{margin-bottom:4px;}.elementor-1324 .elementor-element.elementor-element-bfeff6a .jet-filters-pagination{text-align:center;}.elementor-widget .tippy-tooltip .tippy-content{text-align:center;}@media(max-width:767px){.elementor-1324 .elementor-element.elementor-element-bd8c6ef > .elementor-element-populated{margin:0px 0px 0px 0px;padding:10px 10px 10px 10px;}.elementor-1324 .elementor-element.elementor-element-a569a97 .bdt-breadcrumbs-wrapper .bdt-breadcrumb>*>* ,
+							 .elementor-1324 .elementor-element.elementor-element-a569a97 .bdt-breadcrumbs-wrapper .bdt-breadcrumb>:nth-child(n+2):not(.bdt-first-column)::before{font-size:13px;}.elementor-1324 .elementor-element.elementor-element-1077335{text-align:center;}.elementor-1324 .elementor-element.elementor-element-1077335 .elementor-heading-title{font-size:20px;}.elementor-1324 .elementor-element.elementor-element-afca5ac .elementor-divider-separator{width:50%;margin:0 auto;margin-center:0;}.elementor-1324 .elementor-element.elementor-element-afca5ac .elementor-divider{text-align:center;padding-top:2px;padding-bottom:2px;}}@media(min-width:768px){.elementor-1324 .elementor-element.elementor-element-bd8c6ef{width:75%;}.elementor-1324 .elementor-element.elementor-element-fd84243{width:30%;}.elementor-1324 .elementor-element.elementor-element-d855146{width:70%;}.elementor-1324 .elementor-element.elementor-element-11c37c6{width:25%;}}/* Start custom CSS for jet-listing-grid, class: .elementor-element-8b3f3aa */.ttar .jet-listing-grid__item:after{
+    display: block;
+    content: "";
+    width: 200px;
+    height: 1px;
+    background: #000;
+    margin: 30px auto
+    
+}/* End custom CSS */
+/* Start custom CSS for jet-listing-grid, class: .elementor-element-8b3f3aa */.ttar .jet-listing-grid__item:after{
+    display: block;
+    content: "";
+    width: 200px;
+    height: 1px;
+    background: #000;
+    margin: 30px auto
+    
+}/* End custom CSS */
+/* Start custom CSS for jet-listing-grid, class: .elementor-element-8b3f3aa */.ttar .jet-listing-grid__item:after{
+    display: block;
+    content: "";
+    width: 200px;
+    height: 1px;
+    background: #000;
+    margin: 30px auto
+    
+}/* End custom CSS */
+/* Start custom CSS for jet-listing-grid, class: .elementor-element-8b3f3aa */.ttar .jet-listing-grid__item:after{
+    display: block;
+    content: "";
+    width: 200px;
+    height: 1px;
+    background: #000;
+    margin: 30px auto
+    
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_Avo.woff') format('woff');
+}
+@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_AvoBold.woff') format('woff');
+}
+/* End Custom Fonts CSS */

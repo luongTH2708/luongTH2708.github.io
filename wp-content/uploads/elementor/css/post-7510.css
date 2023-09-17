@@ -1,0 +1,15 @@
+.elementor-7510 .elementor-element.elementor-element-1dbf896:not(.elementor-motion-effects-element-type-background), .elementor-7510 .elementor-element.elementor-element-1dbf896 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-7510 .elementor-element.elementor-element-1dbf896{box-shadow:0px 3px 9px 0px rgba(0, 0, 0, 0.29);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:0px;margin-bottom:0px;padding:0px 0px 0px 0px;}.elementor-7510 .elementor-element.elementor-element-1dbf896:hover{box-shadow:0px 3px 9px 0px rgba(225, 37.000000000000036, 78.00000000000011, 0.35);}.elementor-7510 .elementor-element.elementor-element-1dbf896 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7510 .elementor-element.elementor-element-81a14c9 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-7510 .elementor-element.elementor-element-b8b3004{text-align:left;}.elementor-7510 .elementor-element.elementor-element-b8b3004 .elementor-image img{border-radius:0px 0px 0px 0px;}.elementor-7510 .elementor-element.elementor-element-a6cadf3{padding:0px 5px 0px 5px;}.elementor-7510 .elementor-element.elementor-element-ace59f9{text-align:center;}.elementor-7510 .elementor-element.elementor-element-ace59f9 .elementor-heading-title{color:#333333;font-family:"Avo", Sans-serif;font-size:10px;font-weight:600;line-height:24px;}.elementor-7510 .elementor-element.elementor-element-aac1a98{margin-top:-13px;margin-bottom:0px;padding:0px 5px 10px 5px;}.elementor-7510 .elementor-element.elementor-element-ee27ef0{text-align:center;}.elementor-7510 .elementor-element.elementor-element-ee27ef0 .elementor-heading-title{color:#E1254E;font-family:"Avo", Sans-serif;font-size:13px;font-weight:600;}.elementor-7510 .elementor-element.elementor-element-edf0598{text-align:center;}.elementor-7510 .elementor-element.elementor-element-edf0598 .elementor-heading-title{color:#E1254E;font-family:"Avo", Sans-serif;font-size:15px;font-weight:600;line-height:21px;}.elementor-7510 .elementor-element.elementor-element-edf0598 > .elementor-widget-container{margin:0px 0px 0px 0px;}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_Avo.woff') format('woff');
+}
+@font-face {
+	font-family: 'Avo';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('https://cmmbvietnam.com/wp-content/uploads/2021/01/UTM_AvoBold.woff') format('woff');
+}
+/* End Custom Fonts CSS */
